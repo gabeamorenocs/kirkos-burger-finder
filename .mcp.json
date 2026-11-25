@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "innout": {
+      "command": "/Users/gabrielmoreno/Documents/Claude Projects/11:25:26/.venv/bin/innout-locator-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+}
